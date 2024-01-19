@@ -8,7 +8,8 @@ import {
 export default function Home() {
   const [data, setData] = useState([]);
   const doubleTapRef = useRef(0);
-  const url = "https://eabc-103-3-220-97.ngrok-free.app/favorit";
+  const url =
+    "https://6536-2001-448a-4010-1bc2-a40f-72f3-2289-7d3d.ngrok-free.app/favorit";
 
   const handleDoubelTab = (data) => {
     const now = Date.now();

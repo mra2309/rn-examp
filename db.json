@@ -1,3 +1,28 @@
 {
-  "favorit": []
+  "favorit": [
+    {
+      "image": "https://cdn.shibe.online/shibes/a5a9e81ccbb812aa82da570156252ae230b6ab31.jpg",
+      "id": 1
+    },
+    {
+      "image": "https://cdn.shibe.online/shibes/d93ca8a7958e0529a5ce45c87840449113171248.jpg",
+      "id": 2
+    },
+    {
+      "image": "https://cdn.shibe.online/shibes/257876a12cd99b0995e958958a3dc79f1757ec76.jpg",
+      "id": 3
+    },
+    {
+      "image": "https://cdn.shibe.online/shibes/a9a935c9da747121cbe8782a760d64c2fe84f534.jpg",
+      "id": 4
+    },
+    {
+      "image": "https://cdn.shibe.online/shibes/62fb37d1a543b51be7533249881bba8a916e477b.jpg",
+      "id": 5
+    },
+    {
+      "image": "https://cdn.shibe.online/shibes/cf0010427ac76046d4f43ba5b5a431e66e963ab5.jpg",
+      "id": 6
+    }
+  ]
 }
